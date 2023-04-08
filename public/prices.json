@@ -1,0 +1,40 @@
+[
+    {
+      "id": 1,
+      "name": "Treadmill",
+      "price": 1000,
+      "feature": "Adjustable incline"
+    },
+    {
+      "id": 2,
+      "name": "Elliptical machine",
+      "price": 1500,
+      "feature": "Low-impact workout"
+    },
+    {
+      "id": 3,
+      "name": "Weight bench",
+      "price": 500,
+      "feature": "Adjustable incline"
+    },
+    {
+      "id": 4,
+      "name": "Dumbbell set",
+      "price": 300,
+      "feature": "Rubber-coated for grip"
+    },
+    {
+      "id": 5,
+      "name": "Resistance bands",
+      "price": 50,
+      "feature": "Various resistance levels"
+    },
+    {
+      "id": 6,
+      "name": "Foam roller",
+      "price": 20,
+      "feature": "Helps with muscle recovery"
+    }
+   
+  ]
+  
